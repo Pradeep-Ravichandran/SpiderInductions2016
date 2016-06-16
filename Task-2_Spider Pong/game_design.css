@@ -1,0 +1,28 @@
+html {
+    background: url('back.jpg');
+    margin: auto;
+    text-align: center;
+}
+#title {
+    background-color: cadetblue;
+    color: white;
+    font-family: 'Exo', sans-serif;
+    padding: 5px;
+    margin: 2px;
+    text-align: center;
+    border: 1px solid cadetblue;
+    font-size: 40px;
+}
+#button {
+    background-color: crimson;
+    color: white;
+    width: 100px;
+    font-family: 'Exo', sans-serif;
+    padding: 10px;
+    margin: 2px;
+    text-align: center;
+    border: 1px solid crimson;
+    border-radius: 3px;
+    font-size: 20px;
+    cursor: pointer;
+}
